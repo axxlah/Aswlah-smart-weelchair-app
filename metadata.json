@@ -1,0 +1,6 @@
+{
+  "name": "SmartChair Control",
+  "description": "Smart wheelchair dashboard & assistive navigation with eye-tracking, blink triggers, voice commands, virtual joystick, obstacle telemetry, and caretaker controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
